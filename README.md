@@ -1,5 +1,5 @@
 # portfolio
-PERSONAL PORTIFOLIO
+PERSONAL PORTIFOLIO: 
 This is my personal portifolio
 
 NAME:KHADIJA ALI SAID
